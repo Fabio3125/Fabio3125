@@ -1,4 +1,4 @@
-### Hi there, I'm Batist ⚡
+### Hi there, I'm Batisti ⚡
 
 - 👨‍💻 I like to code every thing!
 - 📖 I’m currently learning Python, JavaScript, HTML and CSS.
